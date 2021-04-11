@@ -1,1 +1,25 @@
 this is the 1st text file in git
+
+
+
+
+
+hello everyone this file is change in vi editor
+
+and this file was cloned from github and modifiedin vi editor this is my task now 
+my task is completed succesfully
+now i need to check my git status
+and add file to staging area
+and commit this file to localrepositopry  and giving some msg why we need to modified this file
+niow file is commited or not check with git status
+
+
+
+
+next step is git pus ----->push tis file to centyral repository it means companys central repository/github
+
+no need give central repository url every timee oce you cennected to github in workstartaed inthat day like you are alredy connected like this git clone/pull/push these::   
+ commands and git clone/push/pull central.git/ shiva
+	
+:wq
+
